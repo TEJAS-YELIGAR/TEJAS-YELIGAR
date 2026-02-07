@@ -16,9 +16,6 @@ Currently focusing on **AI-based solutions and real-world problem solving**.
 ---
 
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TejasYeligar&show_icons=true&theme=tokyonight)
-
 ---
 
 ### 📫 Connect with me
