@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi 👋 I'm Tejas Yeligar
 
-<!--
-**TEJAS-YELIGAR/TEJAS-YELIGAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | 🤖 AI & ML Enthusiast | 💻 Problem Solver  
 
-Here are some ideas to get you started:
+I love building projects that mix **Machine Learning, IoT, and Software Development**.  
+Currently focusing on **AI-based solutions and real-world problem solving**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- **Languages**: Python, Java, C  
+- **Web**: HTML, CSS, JavaScript  
+- **Databases**: MySQL  
+- **Domains**: Machine Learning, IoT, DSA  
+
+---
+
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TejasYeligar&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Connect with me
+- LinkedIn: linkedin.com/in/tejas-yeligar
+- Email: tejasyeligar2005@gmail.com
+
+⭐ *Always learning, always building.*
