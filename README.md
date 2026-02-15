@@ -16,8 +16,6 @@ Currently focusing on **AI-based solutions and real-world problem solving**.
 ---
 
 
----
-
 ### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/tejas-yeligar
 - Email: tejasyeligar2005@gmail.com
